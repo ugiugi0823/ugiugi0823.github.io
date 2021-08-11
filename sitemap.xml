@@ -2,83 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://academic-demo.netlify.app/publication-type/1/</loc>
+    <loc>http://example.org/publication-type/1/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/authors/</loc>
+    <loc>http://example.org/authors/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/author/bado-lee/</loc>
+    <loc>http://example.org/author/bado-lee/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/tag/few-shot-font-generation/</loc>
+    <loc>http://example.org/tag/few-shot-font-generation/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/author/hyunjung-shim/</loc>
+    <loc>http://example.org/author/hyunjung-shim/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/tag/image-to-image-translation/</loc>
+    <loc>http://example.org/tag/image-to-image-translation/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/author/junbum-cha/</loc>
+    <loc>http://example.org/author/junbum-cha/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/publication/mx-font/</loc>
+    <loc>http://example.org/publication/mx-font/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/publication_types/</loc>
+    <loc>http://example.org/publication_types/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/publication/</loc>
+    <loc>http://example.org/publication/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/author/sanghyuk-chun/</loc>
+    <loc>http://example.org/author/sanghyuk-chun/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/author/song-park/</loc>
+    <loc>http://example.org/author/song-park/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/tags/</loc>
+    <loc>http://example.org/tags/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/publication/lf-font/</loc>
+    <loc>http://example.org/publication/lf-font/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/publication-type/2/</loc>
+    <loc>http://example.org/publication-type/2/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/author/joo-hyun-park/</loc>
+    <loc>http://example.org/author/joo-hyun-park/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/publication/semantic-aware/</loc>
+    <loc>http://example.org/publication/semantic-aware/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/tag/style-transfer/</loc>
+    <loc>http://example.org/tag/style-transfer/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/author/dongseob-kim/</loc>
+    <loc>http://example.org/author/dongseob-kim/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/tag/face-generation/</loc>
+    <loc>http://example.org/tag/face-generation/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/publication/facegan/</loc>
+    <loc>http://example.org/publication/facegan/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/author/junsuk-choe/</loc>
+    <loc>http://example.org/author/junsuk-choe/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/author/kyungmin-kim/</loc>
+    <loc>http://example.org/author/kyungmin-kim/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/tag/low-shot-learning/</loc>
+    <loc>http://example.org/tag/low-shot-learning/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/admin/</loc>
+    <loc>http://example.org/admin/</loc>
   </url><url>
-    <loc>https://academic-demo.netlify.app/categories/</loc>
+    <loc>http://example.org/categories/</loc>
   </url>
 </urlset>

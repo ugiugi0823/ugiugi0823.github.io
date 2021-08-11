@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Few-shot Font Generation | Song Park</title>
-    <link>https://academic-demo.netlify.app/tag/few-shot-font-generation/</link>
-      <atom:link href="https://academic-demo.netlify.app/tag/few-shot-font-generation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://example.org/tag/few-shot-font-generation/</link>
+      <atom:link href="http://example.org/tag/few-shot-font-generation/index.xml" rel="self" type="application/rss+xml" />
     <description>Few-shot Font Generation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua4f53e7f715e5d0e3f343e6f2b5ebcd4_27658_512x512_fill_lanczos_center_3.png</url>
+      <url>http://example.org/media/icon_hua4f53e7f715e5d0e3f343e6f2b5ebcd4_27658_512x512_fill_lanczos_center_3.png</url>
       <title>Few-shot Font Generation</title>
-      <link>https://academic-demo.netlify.app/tag/few-shot-font-generation/</link>
+      <link>http://example.org/tag/few-shot-font-generation/</link>
     </image>
     
     <item>
       <title>Multiple Heads are Better than One: Few-shot Font Generation with Multiple Localized Experts</title>
-      <link>https://academic-demo.netlify.app/publication/mx-font/</link>
+      <link>http://example.org/publication/mx-font/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/mx-font/</guid>
+      <guid>http://example.org/publication/mx-font/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Few-shot Font Generation with Localized Style Representations and Factorization</title>
-      <link>https://academic-demo.netlify.app/publication/lf-font/</link>
+      <link>http://example.org/publication/lf-font/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/lf-font/</guid>
+      <guid>http://example.org/publication/lf-font/</guid>
       <description></description>
     </item>
     

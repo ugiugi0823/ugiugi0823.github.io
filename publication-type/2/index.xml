@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Song Park</title>
-    <link>https://academic-demo.netlify.app/publication-type/2/</link>
-      <atom:link href="https://academic-demo.netlify.app/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://example.org/publication-type/2/</link>
+      <atom:link href="http://example.org/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua4f53e7f715e5d0e3f343e6f2b5ebcd4_27658_512x512_fill_lanczos_center_3.png</url>
+      <url>http://example.org/media/icon_hua4f53e7f715e5d0e3f343e6f2b5ebcd4_27658_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://academic-demo.netlify.app/publication-type/2/</link>
+      <link>http://example.org/publication-type/2/</link>
     </image>
     
     <item>
       <title>Semantic-aware Neural Style Transfer</title>
-      <link>https://academic-demo.netlify.app/publication/semantic-aware/</link>
+      <link>http://example.org/publication/semantic-aware/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/semantic-aware/</guid>
+      <guid>http://example.org/publication/semantic-aware/</guid>
       <description></description>
     </item>
     

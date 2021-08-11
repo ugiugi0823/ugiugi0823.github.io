@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Song Park</title>
-    <link>https://academic-demo.netlify.app/categories/</link>
-      <atom:link href="https://academic-demo.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://example.org/categories/</link>
+      <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua4f53e7f715e5d0e3f343e6f2b5ebcd4_27658_512x512_fill_lanczos_center_3.png</url>
+      <url>http://example.org/media/icon_hua4f53e7f715e5d0e3f343e6f2b5ebcd4_27658_512x512_fill_lanczos_center_3.png</url>
       <title>Categories</title>
-      <link>https://academic-demo.netlify.app/categories/</link>
+      <link>http://example.org/categories/</link>
     </image>
     
   </channel>

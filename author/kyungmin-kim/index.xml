@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kyungmin Kim | Song Park</title>
-    <link>https://academic-demo.netlify.app/author/kyungmin-kim/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/kyungmin-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://example.org/author/kyungmin-kim/</link>
+      <atom:link href="http://example.org/author/kyungmin-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Kyungmin Kim</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua4f53e7f715e5d0e3f343e6f2b5ebcd4_27658_512x512_fill_lanczos_center_3.png</url>
+      <url>http://example.org/media/icon_hua4f53e7f715e5d0e3f343e6f2b5ebcd4_27658_512x512_fill_lanczos_center_3.png</url>
       <title>Kyungmin Kim</title>
-      <link>https://academic-demo.netlify.app/author/kyungmin-kim/</link>
+      <link>http://example.org/author/kyungmin-kim/</link>
     </image>
     
     <item>
       <title>Face generation for low-shot learning using generative adversarial networks</title>
-      <link>https://academic-demo.netlify.app/publication/facegan/</link>
+      <link>http://example.org/publication/facegan/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/facegan/</guid>
+      <guid>http://example.org/publication/facegan/</guid>
       <description></description>
     </item>
     
