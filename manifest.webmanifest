@@ -2,8 +2,8 @@
   "name": "Song Park",
   "short_name": "Song Park",
   "lang": "en-us",
-  "theme_color": "#707070",
-  "background_color": "#707070",
+  "theme_color": "#4caf50",
+  "background_color": "#4caf50",
   "icons": [{
     "src": "/media/icon_hua4f53e7f715e5d0e3f343e6f2b5ebcd4_27658_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
