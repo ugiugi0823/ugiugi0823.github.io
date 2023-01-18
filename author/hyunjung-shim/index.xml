@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Semantic-aware Neural Style Transfer</title>
+      <link>http://example.org/publication/semantic-aware/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/semantic-aware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Face generation for low-shot learning using generative adversarial networks</title>
       <link>http://example.org/publication/facegan/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
